@@ -1,0 +1,4 @@
+Task: Open Ableton and structure a song with the sounds you want to hear
+date created: 6/7/2022
+time created: 17:49:24
+timezone: ('PST', 'PDT')
