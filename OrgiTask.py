@@ -10,10 +10,10 @@ class TaskStatus(Enum):
 
 class OrgiTask:
         
-    def __init__(self, description=""):
+    def __init__(self, description="", category=""):
         
         self.description = description
-        
+        self.category = category
         self.created_unix = time.time()
         self.created = time.localtime(self.created_unix)
         self.created_tz = time.tzname
@@ -24,4 +24,5 @@ class OrgiTask:
         return f'Task({self.description}, {self.created}, {self.created_tz})'
 
 
-
+    def get_json(self):
+        
