@@ -6,3 +6,7 @@ Task: Wash Clothes
 date created: 6/9/2022
 time created: 12:57:45
 timezone: ('PST', 'PDT')
+Task: Work on Linkedin Profile
+date created: 6/29/2022
+time created: 13:43:20
+timezone: ('PST', 'PDT')
