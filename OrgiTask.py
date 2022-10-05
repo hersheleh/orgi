@@ -25,4 +25,5 @@ class OrgiTask:
 
 
     def get_json(self):
+        pass
         
