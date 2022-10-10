@@ -1,0 +1,6 @@
+
+** Orgi Site todos
+*** TODO setup orgi backend in Flask
+SCHEDULED: <2022-10-07 Fri>
+*** TODO setup orgi frontend in React
+SCHEDULED: <2022-10-10 Mon>
